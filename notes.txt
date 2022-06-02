@@ -1,0 +1,7 @@
+remove packages ~/.platformio/packages
+
+remove platforms ~/.platformio/platforms
+https://github.com/platformio/platformio-home/issues/2123#issuecomment-812660718
+
+target: STM32F103FC_fysetc_maple
+https://github.com/MarlinFirmware/Marlin/issues/23641
